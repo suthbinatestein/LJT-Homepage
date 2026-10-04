@@ -37,6 +37,12 @@ My research focuses on natural language processing and machine learning. I am pa
   Shanghai AI Lab  
   Advisor: Prof. Yu Cheng
 
+## Skills
+
+- **Programming Languages**: Python, PyTorch, TensorFlow
+- **Research Areas**: Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
+- **Topics**: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, Truthfulness, Interpretability
+
 ## Contact
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)

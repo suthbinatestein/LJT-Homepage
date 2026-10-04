@@ -33,6 +33,12 @@ Research Interests
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
 
+Skills
+======
+* Programming Languages: Python, PyTorch, TensorFlow
+* Research Areas: Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
+* Topics: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, Truthfulness, Interpretability
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
